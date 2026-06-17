@@ -1,4 +1,26 @@
 body{
     background-color: cornflowerblue;
 }
- 
+ img{
+    width: 400px;
+ }
+
+ form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aqua;
+    border-radius: 90px;
+
+ }
+
+ .p1{
+    text-align: center;
+   font-size: 24px;
+   font-style: italic;
+ }
+ button{
+    background-color: rgb(129, 231, 231);
+    border-radius: 10px;
+
+ }
